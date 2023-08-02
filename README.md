@@ -1,0 +1,4 @@
+- Hi, I’m @GaelAbstract or Alan/Gael.
+- I’m interested in learn aobut GitHub and learn some languages.
+- I’m currently learning C++, Java, Php, SQL, JavaScript, Css and HTML.
+- I’m looking to collaborate on proyects to help me improve my skills. 
